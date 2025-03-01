@@ -29,8 +29,8 @@
 - poetry add --group dev mypy - Установка Mypy
 - poetry add --group dev pytest - Установка Pytest
 - poetry add --group dev pytest-cov - Установка Pytest-cov
-  poetry run pytest --cov - Запуск тестов с оценкой покрытия
-  pytest --cov=src --cov-report=html - Генерация отчета по покрытию в HTML формате
+- poetry run pytest --cov - Запуск тестов с оценкой покрытия
+- pytest --cov=src --cov-report=html - Генерация отчета по покрытию в HTML формате
 
 ## Poetry add group lint
 
