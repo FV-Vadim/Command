@@ -43,6 +43,9 @@
 
 - `pip install python-dotenv` - установка библиотеки Dotenv для чтения файла .env
 
+
+## .gitignore
+- `git add -f htmlcov/index.html` - Команда по добавлению собранной информации о покрытии в HTML
 ## Git
 
 - `git init` - Создать репозиторий
