@@ -39,6 +39,11 @@
 - `poetry add --group lint flake8` - Установка Flake8
 
 
+## Pandas
+- `install pandas` Установка Пандас
+-  `pip install openpyxl` - Установка OpenPyxl
+
+
 ## .env
 
 - `pip install python-dotenv` - установка библиотеки Dotenv для чтения файла .env
